@@ -1,0 +1,9 @@
+admin
+root
+msfadmin
+support
+user
+guest
+administrator
+ftpuser
+webmaster
